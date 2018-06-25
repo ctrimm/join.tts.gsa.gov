@@ -87,7 +87,7 @@ ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general recommendations for a federal style resume.
+and following [our general recommendations for a federal style resume]({{site.baseurl}}/resume/).
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-14 in the Federal service.
 Specialized experience is:
